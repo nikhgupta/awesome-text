@@ -5,8 +5,8 @@ Please, see my [VIMRC][vimrc] for an example implementation.
 
 ## Screenshots
 
-![dark](https://github.com/nikhgupta/awesome-text/blob/master/awesome-text-dark.png)
-![light](https://github.com/nikhgupta/awesome-text/blob/master/awesome-text-light.png)
+![dark](https://raw.githubusercontent.com/nikhgupta/awesome-text/master/awesome-text-dark.png)
+![light](https://raw.githubusercontent.com/nikhgupta/awesome-text/master/awesome-text-light.png)
 
 ## Installation
 
